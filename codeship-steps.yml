@@ -1,7 +1,0 @@
-- name: foo_step
-  tag: master
-  service: app
-  command: echo foo
-- name: bar_step
-  service: app
-  command: echo bar
